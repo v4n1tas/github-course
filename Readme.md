@@ -1,15 +1,5 @@
-B
-D
-B
-B
-D
-B
-C
-C
-A
-C
-D
-A
-D
-C
 # Github
+
+Este é um repositório teste para aprender como o Git funciona
+
+
